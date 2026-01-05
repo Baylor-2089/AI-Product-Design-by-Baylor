@@ -12,23 +12,41 @@ icon: face-sunglasses
 
 ***
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+[Sam Altman氏があるインタビューで語っていた内容](https://www.youtube.com/watch?v=cC4Pm8NS4CA\&t=235s)が、Product DesignerやProduct Manager（PdM）の仕事を非常にシンプルに捉えていたため、その考え方を分解・整理し、基盤としてGitBookの構成としました。
+
 ## Learning
 
-### how to figure out what people want
+### how to figure out what people want&#x20;
 
-(......)
+(Customer × Problem Fit → Problem × Solution Fit)
+
+
 
 ### how to make useful products and services for them
 
-(......)
+(Solution × Product Fit → Product × Market Fit)
+
+
 
 ### how to interact in the world
+
+(Influencing・Marketing)
 
 {% content-ref url="README (1).md" %}
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
-***
-
 ## in the age of AI.
+
+### AI-powered Product Design
+
+
+
+### Designing AI Products
+
+
+
+
 
