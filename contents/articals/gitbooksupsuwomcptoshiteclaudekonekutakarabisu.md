@@ -20,6 +20,8 @@ icon: sunglasses
 
 ### Step1: MCPサーバーのURLをコピー
 
+＊自分は[ページ](https://baylor2089.gitbook.io/ai-product-design-by-baylor/naze2026hagitbookwomerubekikax-gitbookgano)ではなく直接[スペース](https://baylor2089.gitbook.io/ai-product-design-by-baylor/)からコピーしました。
+
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Step2: Claudeの\[設定 - コネクタ]からカスタムコネクタを追加
