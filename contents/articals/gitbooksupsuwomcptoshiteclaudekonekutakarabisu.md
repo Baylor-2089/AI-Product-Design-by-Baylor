@@ -1,4 +1,6 @@
 ---
+description: >-
+  GitBookをMCPとしてClaudeから呼び出す価値を解説。コンテキスト管理の効率化、知識の最新性維持、マルチプラットフォーム対応など、RAG-likeな仕組みが実現する新しいワークフローを紹介します。
 icon: sunglasses
 ---
 
