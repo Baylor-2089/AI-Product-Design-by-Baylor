@@ -22,19 +22,19 @@ icon: sunglasses
 
 ＊自分は[ページ](https://baylor2089.gitbook.io/ai-product-design-by-baylor/naze2026hagitbookwomerubekikax-gitbookgano)ではなく直接[スペース](https://baylor2089.gitbook.io/ai-product-design-by-baylor/)からコピーしました。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Step2: Claudeの\[設定 - コネクタ]からカスタムコネクタを追加
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step3: 専用スキルを作成し、呼び出しパターンを定義する
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step4: Claude(Web/Desktop)から必要に応じて呼び出す
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 関連ソース
 

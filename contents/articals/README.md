@@ -12,7 +12,7 @@ icon: face-sunglasses
 
 ***
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [Sam Altman氏があるインタビューで語っていた内容](https://www.youtube.com/watch?v=cC4Pm8NS4CA\&t=235s)が、Product DesignerやProduct Manager（PdM）の仕事を非常にシンプルに捉えていたため、その考え方を分解・整理し、基盤としてGitBookの構成としました。
 
@@ -44,6 +44,10 @@ icon: face-sunglasses
 
 {% content-ref url="gitbooksupsuwomcptoshiteclaudekonekutakarabisu.md" %}
 [gitbooksupsuwomcptoshiteclaudekonekutakarabisu.md](gitbooksupsuwomcptoshiteclaudekonekutakarabisu.md)
+{% endcontent-ref %}
+
+{% content-ref url="claude-puronputoskill.md" %}
+[claude-puronputoskill.md](claude-puronputoskill.md)
 {% endcontent-ref %}
 
 ### Designing AI Products
