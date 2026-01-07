@@ -5,15 +5,15 @@ icon: sparkle
 
 # Andrew Ngさんから学ぶPrompt engineering+拡張
 
-CourseraでAndrew Ngさんの「[ChatGPT Prompt Engineering for Developers](https://www.coursera.org/projects/chatgpt-prompt-engineering-for-developers-project)」を見かけて、1時間で終わる初心者向けの基礎プロンプトエンジニアリングクラスだが、そごく根本的なところを構造化で補完してくれました。
+Andrew Ngさんの「[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)」を見かけて、1時間で終わる初心者向けの基礎プロンプトエンジニアリングクラスだが、そごく根本的なところを構造化で補完してくれました。
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 特に、コアフレームワークとなる４つのタイプを見て、「確かに！」となりました。
 
 この４つのタスクに分類して（自分の頭の中で）、タイプ別に特化したprompt形式・パターンで指示を出せばより安定した高品質なアウトプットができる。
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 でも同時にちょっと振り返りながら考えてみたら、欠けてる部分あるんじゃないかと思い、
 
