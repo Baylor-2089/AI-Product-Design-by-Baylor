@@ -61,11 +61,6 @@ First Principleで考えると、LLM向けのPromptをSummarizing、Inferring、
 
 既存の「Summarizing, Inferring, Transforming, Expanding」は、この「処理」レイヤーにおける中核機能です。
 
-* **Summarizing** : 情報量の圧縮
-* **Expanding**: 情報量の増幅
-* **Transforming**: 形式の変更
-* **Inferring**: 意味の抽出
-
 **② Reasoning (推論・論理思考)**&#x20;
 
 単なる変換や推論を超え、論理的なステップを踏ませるプロンプトです。
