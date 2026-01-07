@@ -7,6 +7,8 @@ icon: sparkle
 
 Andrew Ngさんの「[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)」を見かけて、1時間で終わる初心者向けの基礎プロンプトエンジニアリングクラスだが、そごく根本的なところを構造化で補完してくれました。
 
+今勉強開始すれば、１時間後にはPrompt engineeringスキル200%🆙
+
 <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 特に、コアフレームワークとなる４つのタイプを見て、「確かに！」となりました。
