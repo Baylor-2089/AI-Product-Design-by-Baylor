@@ -46,8 +46,8 @@ icon: face-sunglasses
 [gitbooksupsuwomcptoshiteclaudekonekutakarabisu.md](gitbooksupsuwomcptoshiteclaudekonekutakarabisu.md)
 {% endcontent-ref %}
 
-{% content-ref url="claude-puronputoskill.md" %}
-[claude-puronputoskill.md](claude-puronputoskill.md)
+{% content-ref url="andrew-ngsankarabuprompt-engineering.md" %}
+[andrew-ngsankarabuprompt-engineering.md](andrew-ngsankarabuprompt-engineering.md)
 {% endcontent-ref %}
 
 ### Designing AI Products
